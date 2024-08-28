@@ -1,0 +1,3 @@
+The first project focuses on the video game League of Legends and takes a bunch of measures about the video game to determine what wins a game. Specifically focuses on all the stats within high elo (high elo is the best of the best in North America) games. A writeup is included to explain a bit more. This was a solo project.
+
+The python file is about factors that might affect a student and their grades. The analytics are done in python using machine learning and a bit more with graphs and heatmaps to show the correlation between the statistics shown. This was a collab project done with a classmate. 
